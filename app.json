@@ -1,5 +1,5 @@
 {
-  "name": "chisel-heroku",
+  "name": "chisel-heroku2",
   "description": "Deploy chisel to Heroku as a SOCKS5 proxy.",
   "stack": "container",
   "env": {
